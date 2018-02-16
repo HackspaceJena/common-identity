@@ -1,2 +1,2 @@
-# corporate-identity
+# common-identity
 everything a Krautspace needs - logos, stickers, wallpapers, ...
